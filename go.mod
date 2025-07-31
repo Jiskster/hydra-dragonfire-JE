@@ -1,4 +1,4 @@
-module github.com/dragonfireclient/hydra-dragonfire
+module github.com/Jiskster/hydra-dragonfire-JE
 
 go 1.18
 
