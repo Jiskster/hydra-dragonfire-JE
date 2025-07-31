@@ -2,7 +2,7 @@ package main
 
 import (
 	"errors"
-	"github.com/dragonfireclient/hydra-dragonfire/convert"
+	"github.com/Jiskster/hydra-dragonfire/convert"
 	"github.com/dragonfireclient/mt"
 	"github.com/yuin/gopher-lua"
 	"net"
